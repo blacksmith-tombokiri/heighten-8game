@@ -115,7 +115,7 @@ Copyright © HEIGHTEN. All Rights Reserved.
 ```text
 /
 ├─ index.html    # GitHub Pagesの起動ファイル
-├─ .build/       # HEIGHTEN v1.4.4 本体の圧縮データ
+├─ .build/       # HEIGHTEN v1.4.6 本体の圧縮データ
 ├─ README.md     # このファイル
 ├─ LICENSE.txt   # 利用条件
 └─ .nojekyll     # GitHub Pages用

@@ -13,7 +13,7 @@
 (async()=>{
   try{
     if(typeof DecompressionStream==='undefined') throw new Error('This browser does not support gzip decompression.');
-    const files=['p00','p01','p02','p03','p04','p05','p06','p07','p08','p09','p10','p11a','p11b','p12','p13'];
+    const files=['p00','p01','p02','p03','p04','p05','p06','p07','p08','p09','p10','p11a','p11b0','p11b1','p11b2','p11b3','p12','p13'];
     const parts=await Promise.all(files.map(async(name)=>{
       const path=`.build/${name}`;
       const response=await fetch(path,{cache:'no-store'});

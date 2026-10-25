@@ -114,17 +114,20 @@ Copyright © HEIGHTEN. All Rights Reserved.
 
 ```text
 /
-├─ index.html    # HEIGHTEN本体
+├─ index.html    # GitHub Pagesの起動ファイル
+├─ .build/       # HEIGHTEN v1.4.0 本体の圧縮データ
 ├─ README.md     # このファイル
 ├─ LICENSE.txt   # 利用条件
 └─ .nojekyll     # GitHub Pages用
 ```
 
+`.build` は公開時の内部データです。通常の利用では編集する必要はありません。
+
 ## GitHub Pages
 
 GitHub のリポジトリ設定から **Settings → Pages** を開き、公開元をこのリポジトリの対象Branch / root に設定すると公開できます。
 
-`index.html` がHEIGHTEN本体です。
+`index.html` からHEIGHTEN本体を読み込みます。
 
 ---
 

@@ -1,0 +1,25 @@
+HEIGHTEN
+All Rights Reserved / 閲覧目的公開
+
+Copyright © HEIGHTEN. All Rights Reserved.
+
+このリポジトリおよび配布物に含まれるソースコード、文章、UI、ゲーム構成、デザイン、画像、音声その他のコンテンツに関する権利は、各権利者に帰属します。
+
+本リポジトリは、HEIGHTENをGitHub Pages上で公開し、利用者がブラウザ上で利用できるようにするため、ソースコードを閲覧可能な状態で公開しています。
+
+ソースコードを閲覧可能な状態で公開していることは、著作権その他の権利を放棄すること、またはオープンソースライセンスを付与することを意味しません。
+
+明示的な許可なく、以下の行為を禁止します。
+
+1. ソースコードまたはコンテンツの全部または一部の複製
+2. 改変、翻案、派生物の作成または公開
+3. 再配布、転載、再公開
+4. 商用利用
+5. 他のWebサービス、アプリ、ゲーム、教材等への転用
+6. 本作品またはその一部を利用した類似サービスの公開
+
+GitHub Pages上でHEIGHTENを利用すること、およびリポジトリ内のソースコードを閲覧することは認められています。
+
+上記を超える利用を希望する場合は、権利者から事前に明示的な許可を得てください。
+
+No license is granted except for viewing the source code and using the publicly hosted HEIGHTEN web application as provided.
